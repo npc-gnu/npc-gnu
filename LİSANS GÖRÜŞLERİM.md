@@ -22,7 +22,7 @@ CC BY-SA – Paylaşım serbest, aynı lisansla devam etme şartı. HARİKA! Hem
 
 CC BY-ND – Türetilmiş eser yapılamaz. Kapalı kaynak ile eşdeğer. BU LİSANSIN BEN AMK!
 
-CC BY-NC – Ticari kullanım yasaktır. Yani tekelleşme ile savaşın suyunun çıkmış hali. CC-BY-NC-SA tarzı kullanılırsa olabilir ama saf haliyle kullanmak biraz gereksiz. KUllanılır mı kullanılır ama.
+CC BY-NC – Ticari kullanım yasaktır. Yani tekelleşme ile savaşın suyunun çıkmış hali. CC-BY-NC-SA tarzı kullanılırsa olabilir ama saf haliyle kullanmak biraz gereksiz. Kullanılır mı kullanılır ama.
 
 # Her Şey için
 
