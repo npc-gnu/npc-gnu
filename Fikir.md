@@ -1,9 +1,4 @@
-# 1. pacostrap
-## pacmanoflinebootstrap
-
-Normally you can't install arch without internet but i will develop a C++ software and with a usb stick, you will be able to install arch offline(manual install only.) .
-
-# 2. MpTUIv
+# 1. MpTUIv
 ## MusicplayerTerminal User Interface-v
 
 A tui music player C++ software built on FTXUI. Will use mpv. Features:
