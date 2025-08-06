@@ -4,6 +4,7 @@
 
 [Gitea](https://300281ceebc8.ngrok-free.app/)   (my own selfhosted gitea)
 [GitLab](https://gitlab.com/pigames3)
+*You can open issues, pull requests, both gitea, gitlab, github.
 
 
 [![npc-gnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=npc-gnu)](https://github.com/anuraghazra/github-readme-stats)
