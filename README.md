@@ -1,4 +1,3 @@
-- 📫 How to reach me: root_4rch@proton.me
 - ⚡ Fun facts:
 - 1st I don't recommend using MIT,BSD licenses. For a better freedom on softwares, please use GPL or if you want to be very pragmatic, just use unlicense or WTFPL. 
 - 📆 For my future ideas [click here](https://github.com/npc-gnu/npc-gnu/blob/main/Fikir.md) .
