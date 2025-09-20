@@ -5,4 +5,4 @@
 [GitLab](https://gitlab.com/pigames3)
 *You can open issues, pull requests, both gitlab and github.
 
-![PiGames's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![PiGames's GitHub stats](https://github-readme-stats.vercel.app/api?username=npc-gnu&show_icons=true&theme=dark)
