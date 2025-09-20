@@ -6,4 +6,4 @@
 *You can open issues, pull requests, both gitlab and github.
 
 
-[![npc-gnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=npc-gnu)](https://github.com/anuraghazra/github-readme-stats)
+[![npc-gnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=npc-gnu&show icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
