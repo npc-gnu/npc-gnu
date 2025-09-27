@@ -45,7 +45,7 @@ Dreaming of building worlds like *Red Dead Redemption*, *The Witcher*, and *Metr
 ## 📊 GitHub Stats
 
 ![npc-gnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=npc-gnu&show_icons=true&theme=tokyonight)
-
+![npc-gnu's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=npc-gnu&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 *“Want to build arts, RDR's, Witchers, Metro's and dreaming with learning it; from now.”*
