@@ -44,7 +44,6 @@ Dreaming of building worlds like *Red Dead Redemption*, *The Witcher*, and *Metr
 ## 📊 GitHub Stats
 
 ![npc-gnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=npc-gnu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npc-gnu&layout=compact&theme=tokyonight)
 
 ---
 
