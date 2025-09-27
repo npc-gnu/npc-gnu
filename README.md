@@ -1,5 +1,6 @@
 # 👋 Hi, I'm npc-gnu!
 (Real Name: Çınar Kuzey KUMANLI)
+
 🎮 **High school student & hobby programmer on a quest to become a game director and developer.**  
 Dreaming of building worlds like *Red Dead Redemption*, *The Witcher*, and *Metro*. Learning Unreal Engine 5—loving fixable bugs, hating those 5-hour-eater ones.
 
