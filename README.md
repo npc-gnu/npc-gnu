@@ -8,6 +8,7 @@ Dreaming of building worlds like *Red Dead Redemption*, *The Witcher*, and *Metr
 
 ## 🚀 My Journey
 
+- Released my first game today! Russian Roulette. 
 - 🖥️ Tinkering with **C++** and diving into **Unreal Engine 5**
 - ✨ Building arts, systems, and little universes, one repo at a time
 - 🛠️ Creator of [pacostrap](https://github.com/npc-gnu/pacostrap), [animatel](https://github.com/npc-gnu/animatel), [command](https://github.com/npc-gnu/command), and more...
