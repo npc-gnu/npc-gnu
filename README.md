@@ -2,7 +2,7 @@
 (Real Name: Çınar Kuzey KUMANLI)
 
 ## 💙 Loves && Works On
-[![GNU](https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white)](#) [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) 
+[![GNU](https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) 
 
 🎮 **High school student & hobby programmer on a quest to become a game director and developer.**  
 Dreaming of building worlds like *Red Dead Redemption*, *The Witcher*, and *Metro*. Learning Unreal Engine 5—loving fixable bugs, hating those 5-hour-eater ones.
