@@ -1,6 +1,9 @@
 # 👋 Hi, I'm npc-gnu!
 (Real Name: Çınar Kuzey KUMANLI)
 
+## 💙 Loves && Works On
+[![GNU](https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white)](#) [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) 
+
 🎮 **High school student & hobby programmer on a quest to become a game director and developer.**  
 Dreaming of building worlds like *Red Dead Redemption*, *The Witcher*, and *Metro*. Learning Unreal Engine 5—loving fixable bugs, hating those 5-hour-eater ones.
 
@@ -9,7 +12,7 @@ Dreaming of building worlds like *Red Dead Redemption*, *The Witcher*, and *Metr
 ## 🚀 My Journey
 
 - Released my first game on 2nd October! Russian Roulette. 
-- 🖥️ Tinkering with **C++** and diving into **Unreal Engine 5**
+- 🖥️ Tinkering with **C++** [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) and diving into **Unreal Engine 5** [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) 
 - ✨ Building arts, systems, and little universes, one repo at a time
 - 🛠️ Creator of [pacostrap](https://github.com/npc-gnu/pacostrap), [animatel](https://github.com/npc-gnu/animatel), [command](https://github.com/npc-gnu/command), and more...
 - 🌱 Always learning, always dreaming
@@ -39,7 +42,7 @@ Dreaming of building worlds like *Red Dead Redemption*, *The Witcher*, and *Metr
 - **Email:** root_4rch@proton.me
 - **Forum:** [Bilinçli Teknoloji Tüketicileri](https://btt.community/u/hackertux/summar)
 - **Reddit:** [u/npc-gnu](https://www.reddit.com/user/npc-gnu/)
-- **X (Twitter):** [@mrgnulinux](https://x.com/mrgnulinux)
+- **X (Twitter):** [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#) [@mrgnulinux](https://x.com/mrgnulinux)
 
 ---
 
