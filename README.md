@@ -12,7 +12,7 @@ Dreaming of building worlds like *Red Dead Redemption*, *The Witcher*, and *Metr
 ## 🚀 My Journey
 
 - Released my first game on 2nd October! Russian Roulette. 
-- 🖥️ Tinkering with **C++** [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) and diving into **Unreal Engine 5** [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) 
+- 🖥️ Tinkering with [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) and diving into [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) **5** 
 - ✨ Building arts, systems, and little universes, one repo at a time
 - 🛠️ Creator of [pacostrap](https://github.com/npc-gnu/pacostrap), [animatel](https://github.com/npc-gnu/animatel), [command](https://github.com/npc-gnu/command), and more...
 - 🌱 Always learning, always dreaming
@@ -42,7 +42,7 @@ Dreaming of building worlds like *Red Dead Redemption*, *The Witcher*, and *Metr
 - **Email:** root_4rch@proton.me
 - **Forum:** [Bilinçli Teknoloji Tüketicileri](https://btt.community/u/hackertux/summar)
 - **Reddit:** [u/npc-gnu](https://www.reddit.com/user/npc-gnu/)
-- **X (Twitter):** [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#) [@mrgnulinux](https://x.com/mrgnulinux)
+- [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#) [@mrgnulinux](https://x.com/mrgnulinux)
 
 ---
 
