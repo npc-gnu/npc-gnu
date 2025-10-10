@@ -11,6 +11,7 @@ Dreaming of building worlds like *Red Dead Redemption*, *The Witcher*, and *Metr
 
 ## 🚀 My Journey
 
+- I won't develop any of my projects anymore (except PR's and Issues). I will just develop game.
 - Released my first game on 2nd October! Russian Roulette. 
 - 🖥️ Tinkering with [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) and diving into [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) **5** 
 - ✨ Building arts, systems, and little universes, one repo at a time
