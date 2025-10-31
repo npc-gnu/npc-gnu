@@ -62,7 +62,7 @@ Dreaming of building worlds like *Red Dead Redemption*, *The Witcher*, and *Metr
 **WITH**
 
 
-[![Anonymous](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.MCs6CHNNeS71dH-9ce98OAHaEK%3Fcb%3D12%26pid%3DApi&f=1&ipt=3095e997809550ac03110cecdca7dae6faf718ff7fc20352b13709e3d75721d9&ipo=images)] [![Anarchyism](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.PD6tIE-2TprZTlj6QX1J9AHaEo%3Fcb%3D12%26pid%3DApi&f=1&ipt=989f02723e1d93e5db5825ef95d565b612d2b360945ebfda74412516f0b3c0cd&ipo=images)]
+![Anonymous](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.MCs6CHNNeS71dH-9ce98OAHaEK%3Fcb%3D12%26pid%3DApi&f=1&ipt=3095e997809550ac03110cecdca7dae6faf718ff7fc20352b13709e3d75721d9&ipo=images) ![Anarchyism](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.PD6tIE-2TprZTlj6QX1J9AHaEo%3Fcb%3D12%26pid%3DApi&f=1&ipt=989f02723e1d93e5db5825ef95d565b612d2b360945ebfda74412516f0b3c0cd&ipo=images)
 
 
 **UNTIL DEATH!**
