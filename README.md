@@ -54,10 +54,6 @@ Dreaming of building worlds like *Red Dead Redemption*, *The Witcher*, and *Metr
 
 ---
 
-*“Want to build arts, RDR's, Witchers, Metro's and dreaming with learning it; from now.”*
-
----
-
 
 **WITH**
 
